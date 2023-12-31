@@ -7,8 +7,8 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+# url: https://heliumjk.github.io
+# baseurl: "/heliumjk.github.io"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -21,21 +21,21 @@ google_ad_client:
 post_limit: 5
 
 
-title : Helium Jekyll
+title : Topograf
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
+  name : Marius Bledea
+  site: https://bledeamarius.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
-  feedburner : 
+  # email : lantoniotrento@gmail.com
+  # github : antoniotrento
+  # twitter : lantoniotrento
+  # facebook: lantoniotrento
+  # linkedin: antoniotrento
+  # instagram: lantoniotrento
+  # pinterest: antoniotrento
+  # feedburner : 
 
 twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
